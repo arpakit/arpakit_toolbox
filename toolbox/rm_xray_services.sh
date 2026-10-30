@@ -2,7 +2,7 @@
 # ARPAKIT Toolbox - остановка всех сервисов xray и удаление их конфигов
 #
 # Запуск:
-#   bash <(curl -fsSL https://raw.githubusercontent.com/arpakit-company/arpakit_toolbox/master/toolbox/rm_xray_services.sh)
+#   bash <(curl -fsSL https://raw.githubusercontent.com/arpakit/arpakit_toolbox/master/toolbox/rm_xray_services.sh)
 #
 # Останавливает и отключает xray и все xray@*, удаляет *.json из каталога конфигов.
 # Сам xray (бинарник, юниты, geodata) остаётся.

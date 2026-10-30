@@ -2,7 +2,7 @@
 # ARPAKIT Toolbox - запуск (или переустановка) Portainer CE
 #
 # Запуск:
-#   bash <(curl -fsSL https://raw.githubusercontent.com/arpakit-company/arpakit_toolbox/master/toolbox/docker_run_portainer.sh)
+#   bash <(curl -fsSL https://raw.githubusercontent.com/arpakit/arpakit_toolbox/master/toolbox/docker_run_portainer.sh)
 #   bash docker_run_portainer.sh 9443    # свой HTTP-порт
 #
 # Настройки через переменные окружения:

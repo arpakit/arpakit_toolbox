@@ -2,7 +2,7 @@
 # ARPAKIT Toolbox - установка certbot (Let's Encrypt) через snap
 #
 # Запуск:
-#   bash <(curl -fsSL https://raw.githubusercontent.com/arpakit-company/arpakit_toolbox/master/toolbox/install_certbot.sh)
+#   bash <(curl -fsSL https://raw.githubusercontent.com/arpakit/arpakit_toolbox/master/toolbox/install_certbot.sh)
 
 set -euo pipefail
 

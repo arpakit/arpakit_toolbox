@@ -2,7 +2,7 @@
 # ARPAKIT Toolbox - установка nginx
 #
 # Запуск:
-#   bash <(curl -fsSL https://raw.githubusercontent.com/arpakit-company/arpakit_toolbox/master/toolbox/install_nginx.sh)
+#   bash <(curl -fsSL https://raw.githubusercontent.com/arpakit/arpakit_toolbox/master/toolbox/install_nginx.sh)
 
 set -euo pipefail
 

@@ -2,7 +2,7 @@
 # ARPAKIT Toolbox - установка Docker CE из официального репозитория
 #
 # Запуск:
-#   bash <(curl -fsSL https://raw.githubusercontent.com/arpakit-company/arpakit_toolbox/master/toolbox/install_docker.sh)
+#   bash <(curl -fsSL https://raw.githubusercontent.com/arpakit/arpakit_toolbox/master/toolbox/install_docker.sh)
 #
 # Поддерживаются Ubuntu и Debian.
 

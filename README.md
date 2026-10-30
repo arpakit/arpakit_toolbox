@@ -6,10 +6,10 @@
 ## Установка ПО
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/arpakit-company/arpakit_toolbox/master/toolbox/install_docker.sh)
-bash <(curl -fsSL https://raw.githubusercontent.com/arpakit-company/arpakit_toolbox/master/toolbox/install_nginx.sh)
-bash <(curl -fsSL https://raw.githubusercontent.com/arpakit-company/arpakit_toolbox/master/toolbox/install_certbot.sh)
-bash <(curl -fsSL https://raw.githubusercontent.com/arpakit-company/arpakit_toolbox/master/toolbox/install_xray.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/arpakit/arpakit_toolbox/master/toolbox/install_docker.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/arpakit/arpakit_toolbox/master/toolbox/install_nginx.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/arpakit/arpakit_toolbox/master/toolbox/install_certbot.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/arpakit/arpakit_toolbox/master/toolbox/install_xray.sh)
 ```
 
 | Скрипт | Что делает | Переменные окружения |
@@ -26,7 +26,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/arpakit-company/arpakit_tool
 ## Docker
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/arpakit-company/arpakit_toolbox/master/toolbox/docker_run_portainer.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/arpakit/arpakit_toolbox/master/toolbox/docker_run_portainer.sh)
 ```
 
 | Скрипт | Что делает |
@@ -36,7 +36,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/arpakit-company/arpakit_tool
 ## Xray
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/arpakit-company/arpakit_toolbox/master/toolbox/rm_xray_services.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/arpakit/arpakit_toolbox/master/toolbox/rm_xray_services.sh)
 ```
 
 `rm_xray_services.sh` останавливает и отключает `xray` и все `xray@*`, удаляет
@@ -46,7 +46,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/arpakit-company/arpakit_tool
 ## Диагностика
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/arpakit-company/arpakit_toolbox/master/toolbox/speed_test.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/arpakit/arpakit_toolbox/master/toolbox/speed_test.sh)
 ```
 
 `speed_test.sh` меряет задержку, загрузку и отдачу по нескольким независимым

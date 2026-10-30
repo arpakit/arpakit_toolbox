@@ -6,7 +6,7 @@
 # такой источник просто помечается как недоступный.
 #
 # Запуск:
-#   bash <(curl -fsSL https://raw.githubusercontent.com/arpakit-company/arpakit_toolbox/master/toolbox/speed_test.sh)
+#   bash <(curl -fsSL https://raw.githubusercontent.com/arpakit/arpakit_toolbox/master/toolbox/speed_test.sh)
 #   sh speed_test.sh                  # то же самое локально
 #   sh speed_test.sh 1.2.3.4 ya.ru    # добавить свои цели для замера задержки
 #
